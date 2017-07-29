@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(../assets/images/RdhcAT0.jpg);
+    background-color: blue;
+}
+
+.jumbotron h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.jumbotron h2 {
+    font-family: 'Bowlby One SC', cursive;
+    text-align: right;
+    font-size: 48pt;
+    margin-right: 300px;
+}
+
+.jumbotron p {
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+}
