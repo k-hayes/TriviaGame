@@ -1,0 +1,80 @@
+.scout {
+    background-image: url("../images/the-scout-statue-kansas-city-579101603-5901dd9d5f9b5810dc345924.jpg");
+}
+
+.jumbotron {
+    height: 1175px; 
+    width: 98%;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+.intro h1 {
+    margin-top: 50px;
+    width: 1300px;
+    font-family: 'Pacifico', cursive;
+    text-align: left;
+    margin-left: 25%;
+}
+
+#kcmo {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 150pt;
+    color: #a31818;
+    margin-left: 75%;
+}
+
+.intro p {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    width: 1000px;
+    margin-left: 60%;
+    margin-top: 50px;
+    color: #fff;
+}
+
+#start {
+    width: 500px;
+    height: 200px;
+    background-color: #6c9992;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    display: block;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+
+.quiz-container {
+    display: none;
+}
+
+.question{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.answers {
+  margin-bottom: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+.answers label{
+  display: block;
+  margin-bottom: 10px;
+}
+
+#next {
+    width: 300px;
+    height: 100px;
+    background-color: #6c9992;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    display: block;
+    margin-left: 40%;
+    margin-top: 100px;
+}
